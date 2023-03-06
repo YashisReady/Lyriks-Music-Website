@@ -1,2 +1,2 @@
 # Lyriks-Music-Website
-A casual website to where you can listen to your favourite tracks
+A casual website where you can listen to your favourite tracks
